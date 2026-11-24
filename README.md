@@ -11,7 +11,7 @@
 * **Real-time Input Feedback:** Animated responsive paws that alternate and press down in sync with user keypresses.
 * **Zero Dependencies:** Pure HTML5, CSS3 keyframe animations, and lightweight JavaScript.
 
----
+----
 
 ## 🎥 OBS Studio Setup
 
@@ -22,7 +22,7 @@
 5. Right-click the Browser source → **Filters** → Add **Chroma Key** (`#00ff00`) to make the background transparent.
 
 
----
+----
 
 ## 📸 Visual Preview
 
